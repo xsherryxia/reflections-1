@@ -1,0 +1,33 @@
+Xiaorui (Sherry) Xia
+
+Statistics 157
+
+September 28th, 2013
+
+Reflection 5
+
+This week we finally started to program. This is both exciting and stressful. As the administrator of my vertical
+group I received quite a bit of pressure from the other group members to get the data parsed early so we have time 
+left for analysis. 
+
+I have never programed in python before so it has been rather difficult. So far, I had the most difficulty getting started. 
+I wasn't sure what I was doing as I was unfamiliar with the python syntax. It took me a long
+time to figure out how to start gspread and then how to parse out the columns that I wanted. Now I need to work on 
+brushing up my regular expressions and figuring out how to clean and organize the data. 
+
+One thing I realized through this process was that the administator seems to have a disproportionate role as compared to 
+the other members. This is especially true for individuals like me, who have never programed in python before. The task of 
+data curation is time consuming as curators have to deal with the nitty gritty of the data. Other members get the fruits 
+of our labor and gets to work with the clean, organized data that we come up with. 
+
+I also found on github that visualizers can use R to play with the data. To me this is an unfair advantage as most of the
+visualization can be easily done on R as most of us have a strong background in R. Perhaps these complaints are an indicator
+of need to switch to a different role for the next project. I do enjoy learning python, that is afterall, one of the things
+that drew me to this course, but it can get frustrating when you have a deadline to meet. 
+
+Aside from these factors, doing this project has reminded me the importance of documentation. Coding in a new language 
+made me realize that documentation can save a lot of time for myself as well as other people. This is something that I 
+will definitely incorporate into my future projects and my lifestyle in general.
+
+Lastly, I'm extremely appreciative of the fact that the instructors are actualizing the feedback the students gave in the
+past few classes. I really feel like we are doing something in this class, and I'm excited.
